@@ -1,0 +1,2 @@
+## Mark third-party libraries as vendored so GitHub Linguist excludes them
+views/static/script/jquery-1.7.2.js linguist-vendored
